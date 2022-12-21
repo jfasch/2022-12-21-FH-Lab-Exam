@@ -34,5 +34,5 @@ Exam Submission
    ... whatever your project's parent directory is ...
    $ tar -z -c -f submission.tar.gz 2022-12-21-FH-Lab-Exam/
 
-Submit the file ``submission.tar.gz`` on Moodle
+Submit the file ``submission.tar.gz`` on `Moodle
 <https://moodle-22-23.fh-joanneum.at/mod/assign/view.php?id=33070>`__.
